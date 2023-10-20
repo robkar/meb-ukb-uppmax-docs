@@ -31,6 +31,6 @@ TODO: introductory paragraph
     connect to `sftp://<username>-sens2017519@bianca-sftp.uppmax.uu.se`.
 
 The UKB genotype data is located in `/proj/sens2017519/nobackup`. See
-[](ukb_data_on_uppmax.md) for detailed description of data locations and
+[ukb_data_on_uppmax.md](ukb_data_on_uppmax.md) for detailed description of data locations and
 guidelines for use.
 
