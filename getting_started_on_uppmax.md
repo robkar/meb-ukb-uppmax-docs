@@ -30,6 +30,7 @@ TODO: introductory paragraph
     For getting data on and off the bianca cluster, you must use SFTP and
     connect to `sftp://<username>-sens2017519@bianca-sftp.uppmax.uu.se`.
 
-The UKB genotype data is located in `/proj/sens2017519/nobackup`. See [TODO] for
-detailed description of data locations and guidelines for use.
+The UKB genotype data is located in `/proj/sens2017519/nobackup`. See
+[](ukb_data_on_uppmax.md) for detailed description of data locations and
+guidelines for use.
 
