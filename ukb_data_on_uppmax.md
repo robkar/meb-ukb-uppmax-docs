@@ -1,7 +1,7 @@
 # UK Biobank genotype data
 
-This describes the set of UK Biobank genotype data currently available in
-the Uppmax/bianca project sens2017519 (AGE), PI Sara Hägg.
+This file describes the set of UK Biobank genotype data currently available in
+the Uppmax/bianca project sens2017519 ("AGE"), PI Sara Hägg.
 
 The genotype data was released in 2017 and is thoroughly described in [The UK
 Biobank resource with deep phenotyping and genomic data (Bycroft et al.
@@ -70,4 +70,4 @@ be reproduced).
 
 ## Derived data
 
-Derived data and format conversions shared with all users
+Derived data and format conversions shared with all users: [NONE YET]

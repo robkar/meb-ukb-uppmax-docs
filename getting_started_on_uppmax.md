@@ -1,7 +1,5 @@
 # Getting started on the MEB UKB Uppmax project
 
-TODO: introductory paragraph
-
 ## Joining the project
 
 1. Follow the process to join at
