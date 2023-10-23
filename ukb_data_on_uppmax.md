@@ -32,7 +32,7 @@ overview presented below:
 |Imputation sample chrX	|	ukbA_imp_chrX_v3_sP.sample|
 |Imputation sample chrXY	|	ukbA_imp_chrXY_v3_sP.sample|
 |Haplotypes BGEN|			ukb_hap_chrN_v2.bgen	|
-|Haplotypes BGI|			ukb_hbg_chrN_v2.bgi|
+|Haplotypes BGI|			ukb_hap_chrN_v2.bgi|
 |HLA Imputation|			ukb_hla_v2.txt|
 
 **Raw data for CNV calling and genotype cluster plots**
@@ -56,9 +56,15 @@ overview presented below:
 Wildcards in filenames:
 - N: chromosome label (1..22,X,Y,XY,MT)
 - P: number of consenting participants
-- A: researchers UK Biobank application ID (22224)
+- A: researchers UK Biobank application ID (22224, or for some files truncated
+    to 2222)
 
 See also <https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/genetic-data> and <https://biobank.ndph.ox.ac.uk/ukb/label.cgi?id=100314>
+
+### Exome sequence data
+
+In the folder `exomeseq` is a copy of the interim 200k sample release of exome
+sequence data, UKB data field [23155](https://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=23155) in [plink format](https://www.cog-genomics.org/plink/1.9/formats#bed).
 
 ## Raw data updates
 

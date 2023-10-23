@@ -3,7 +3,7 @@
 This is a README for the Uppmax project [Molecular epidemiologic studies of
       aging and age-related
       diseases](https://supr.naiss.se/project/request/?search=sens2017519)
-      (sens2017519), which contains a local copy of the genotype data from the
+      (sens2017519), which contains a local copy of genotype data from the
       UK Biobank.
 
 - Instructions for [getting an account and connecting](getting_started_on_uppmax.md)
